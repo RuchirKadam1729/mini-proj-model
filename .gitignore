@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyTorch / Transformers cache
+*.pt
+*.bin
+*.ckpt
+*.cache/
+transformers_cache/
+huggingface_hub/
+
+# CRAFT output (if any)
+output/
+*.jpg
+*.png
+*.npz
+*.txt
+*.json
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
