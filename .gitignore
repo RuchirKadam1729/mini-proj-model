@@ -28,7 +28,7 @@ output/
 *.jpg
 *.png
 *.npz
-*.txt
+*/**/*.txt
 *.json
 # VSCode settings
 .vscode/
